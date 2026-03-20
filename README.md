@@ -1,4 +1,4 @@
-# Local LLM Research Assistant — Ollama
+# Local LLM Research Assistant: Ollama
 
 A local AI research assistant built with Ollama that runs a two-stage analysis pipeline using DeepSeek-R1 and Qwen2.5. Runs entirely on local hardware — no API keys, no data leaving the machine.
 
