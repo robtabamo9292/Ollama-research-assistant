@@ -1,5 +1,5 @@
 """
-Local LLM Research Assistant — Upgraded
+Local LLM Research Assistan
 Built with Ollama + Python data processing
 
 Features:
