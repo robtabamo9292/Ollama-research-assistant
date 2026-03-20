@@ -1,6 +1,6 @@
 # Setup Guide — Local LLM Research Assistant
 
-A step-by-step guide to get the research assistant running on your machine.
+A step-by-step guide to get a research assistant running on your machine.
 
 ---
 
